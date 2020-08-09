@@ -1,0 +1,22 @@
+{
+  "name": "vifi-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modojodo/vifi-json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modojodo/vifi-json-server/issues"
+  },
+  "homepage": "https://github.com/modojodo/vifi-json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
