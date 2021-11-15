@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/modojodo/vifi-json-server#readme",
   "devDependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "0.17.0 "
   }
 }
